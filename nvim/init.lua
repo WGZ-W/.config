@@ -1,4 +1,5 @@
 
 
 
-require("core.options")
+require("options")
+require("config.lazy")
